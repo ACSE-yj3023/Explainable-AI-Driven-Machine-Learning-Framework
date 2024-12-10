@@ -45,7 +45,7 @@ The grid search process for tree-based mdoel and svr are slow and can take one o
 
 Interpretable models (SHAP/LIME) are also implemented in the corresponding model implementation code and can be viewed directly.
 
-The component data generated according to the range can be obtained directly and saved in the Excel file. Because of the large amount of data, please make sure you have enough space to store and open files.
+The component data generated according to the range can be obtained directly and saved in the Excel file and it is already in 'data' folder. Because of the large amount of data, please make sure you have enough space to store and open files. 
 
 All the saved Excel files are in the 'data' folder.
 
